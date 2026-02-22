@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+aiosqlite
+pydantic-settings
+python-multipart
+onnxruntime
+numpy
+opencv-python
+loguru
+passlib
+bcrypt==3.2.2
+python-jose[cryptography]

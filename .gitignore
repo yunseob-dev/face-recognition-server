@@ -1,0 +1,49 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+
+# AI Models
+*.onnx
+
+# Data & Static Resources
+app/resources/
+
+# Database
+*.db
+
+# Face images (stored at runtime)
+face_images/
+
+# Logs
+*.log
+
+# Environment Variables & Secrets
+.env
+
+# SSL / Private keys (do not commit)
+client/ssl/
+*.key
+*.pem
+
+# Misc / Documentation
+CLAUDE.md
+.vscode/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+client/node_modules/
+client/dist/
+client/dist-ssr/
+client/*.local

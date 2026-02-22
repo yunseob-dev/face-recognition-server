@@ -1,0 +1,12 @@
+# .dockerignore
+__pycache__
+*.pyc
+.git
+.env
+.DS_Store
+*.db
+logs/
+venv/
+env/
+frontend/
+node_modules/
